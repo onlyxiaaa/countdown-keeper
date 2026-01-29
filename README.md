@@ -5,7 +5,7 @@ A beautiful, pastel-themed countdown tracker with a MacBook-style interface. Tra
 ![Countdown Keeper](https://img.shields.io/badge/Status-Live-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-## ✨ Features
+## ✨ Features 
 
 ### 📅 **Countdown Tracker**
 - Create unlimited countdowns for exams, deadlines, events, and more
