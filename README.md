@@ -48,9 +48,6 @@ A beautiful, pastel-themed countdown tracker with a MacBook-style interface. Tra
 
 Visit: `https://yourusername.github.io/countdown-keeper/`
 
-## 📸 Screenshots
-
-*(Add your screenshots here!)*
 
 ## 🛠️ Technologies Used
 
@@ -156,7 +153,7 @@ This project is open source and available under the MIT License.
 Having issues? 
 - Check the [Deployment Guide](DEPLOYMENT_GUIDE.md)
 - Open an issue on GitHub
-- Contact: [your-email@example.com]
+- Contact: ZendayatheRebble@gmail.com
 
 ## 🎉 Enjoy!
 
